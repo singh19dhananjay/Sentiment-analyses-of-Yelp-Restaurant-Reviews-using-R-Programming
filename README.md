@@ -1,1 +1,4 @@
 # TextMiningandSentimentAnalysis
+Used Harvard IV, Lexicon, AFINN dictionaries to perform sentiment analysis of Yelp restaurant user-reviews.
+
+Used the “bag of word” approach for text mining and creating the document-term matrix using the term occurrences, binary term presence/absence values, or tf-idf values.
